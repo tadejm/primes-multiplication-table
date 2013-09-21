@@ -1,4 +1,4 @@
-# Prime number multiplication table
+# Prime numbers multiplication table
 
 CLI for rendering a multiplication table created from prime numbers.
 
